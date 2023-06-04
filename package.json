@@ -1,6 +1,6 @@
 {
   "name": "com.rafalfaro.metaversesandbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Metaverse Sandbox",
   "description": "Core functionality for Metaverse Sandbox users so they can build compatible Addressables for the main build which doesn't have source code available.",
   "unity": "2021.3",
