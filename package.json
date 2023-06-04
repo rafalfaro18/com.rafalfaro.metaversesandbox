@@ -1,0 +1,25 @@
+{
+  "name": "com.rafalfaro.metaversesandbox",
+  "version": "1.0.0",
+  "displayName": "Metaverse Sandbox",
+  "description": "Core functionality for Metaverse Sandbox users so they can build compatible Addressables for the main build which doesn't have source code available.",
+  "unity": "2021.3",
+  "unityRelease": "25f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.addressables": "1.19.19"
+  },
+  "keywords": [
+    "Metaverse",
+    "Sandbox",
+    "VR",
+    "Multiplayer"
+  ],
+  "author": {
+    "name": "Rafael Alfaro",
+    "email": "rafalfaro_18@hotmail.com",
+    "url": "http://rafalfaro.com"
+  }
+}
