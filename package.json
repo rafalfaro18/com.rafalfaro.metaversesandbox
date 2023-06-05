@@ -9,7 +9,8 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
-    "com.unity.addressables": "1.19.19"
+    "com.unity.addressables": "1.19.19",
+    "com.unity.render-pipelines.universal": "12.1.11"
   },
   "keywords": [
     "Metaverse",

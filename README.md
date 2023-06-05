@@ -10,6 +10,7 @@ Core Unity package to create Environments and Environment Bundles DLCs for the M
 ## Dependencies
 
 - com.unity.addressables 1.19.19
+- com.unity.render-pipelines.universal 12.1.11
 - Unity 2021.3.25f1
 
 ## Creating Remote Catalogs
