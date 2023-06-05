@@ -39,6 +39,12 @@ This command will start a web server in port 8080 in your local machine.
 3. In the Quantum Console type: ``UnloadCurrentScene`` and hit enter.
 4. In the Quantum Console type: ``DownloadRemoteCatalog http://127.0.0.1:8080 catalog_2023.06.05.01.56.56.json`` and hit enter but replace `` http://127.0.0.1:8080`` for your web hosting address where you previously uploaded the contents of your new Unity Project's Addressables bake/build result (folder ``ServerData``) and the name of the catalog.json file for yours.
 
+## Notes
+- Use addressables Remote profile custom:
+```txt
+Remote.BuildPath: ServerData/[BuildTarget]
+Remote.LoadPath: http://127.0.0.1:8080/[BuildTarget]
+```
 
 ## To Do
 - Add common prefabs that can be loaded by the base game for specific supported behaviors.
