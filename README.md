@@ -1,4 +1,4 @@
-# MetaverseSandboxBase
+# MetaverseSandbox Core
 
 Core Unity package to create Environments and Environment Bundles DLCs for the MetaverseSandbox Base Game of which the source code isn't public just the binary.
 
@@ -40,3 +40,5 @@ This command will start a web server in port 8080 in your local machine.
 
 
 ## To Do
+- Add common prefabs that can be loaded by the base game for specific supported behaviors.
+- Add networking support
