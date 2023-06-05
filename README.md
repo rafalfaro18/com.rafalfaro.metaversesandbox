@@ -44,6 +44,7 @@ This command will start a web server in port 8080 in your local machine.
 ```txt
 Remote.BuildPath: ServerData/[BuildTarget]
 Remote.LoadPath: http://127.0.0.1:8080/[BuildTarget]
+- Addressables have dependencies in the default group so for the separate projects that only build addressables the default group has to be changed to remote instead of local.
 ```
 
 ## To Do
